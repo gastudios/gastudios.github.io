@@ -11,10 +11,15 @@ h1 {
 	font-size: 60px;
 	font-family: 'Cute Font', sans-serif;
 	font-weight: bold;
-	color: #C00;
+	color: #FFF;
+	margin-top: 163px;
 }
 
 #subscribe {
 	position: relative;
-	margin-top: 250px;
+	margin-top: 132px;
+}
+
+form {
+	font-family: sans-serif;
 }
